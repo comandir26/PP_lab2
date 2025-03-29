@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/PP_lab2.sln
+/PP_lab2.vcxproj
+/PP_lab2.vcxproj.filters
